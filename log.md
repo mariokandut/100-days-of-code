@@ -1,30 +1,41 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: September 16th , 2018 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started with freecodecamp.com again. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** FreeCodeCamp really kept me motivated and since they've updated the entire database of courses with new material. I'd like to improve my frontend skills.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [freecodecamp SASS](https://learn.freecodecamp.org/front-end-libraries/sass)
+---- 
+### Day 1: September 17th , 2018 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**: Checking out Authentication with Google Firebase. 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts:** Amazing service from Google and no struggles for storing user passwords. Will include this in the next sideproject.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Link to work:** [firebase](https://firebase.google.com/)
+---- 
+### Day 2: September 18th , 2018 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Today's Progress**: Freecodecamp again, REACT part. 
 
+**Thoughts:** Kind of a repition, but still worth it. :) 
 
-### Day 1: June 27, Monday
+**Link to work:** [freecodecamp React](https://learn.freecodecamp.org/front-end-libraries/react/)
+---- 
+### Day 3: September 19th , 2018 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Still Freecodecamp REACT part. 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts:** Kind of a repition, but still worth it. :) 
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [freecodecamp React](https://learn.freecodecamp.org/front-end-libraries/react/)
+---- 
+### Day 4: September 20th , 2018 
+
+**Today's Progress**:  
+
+**Thoughts:**  
+
+**Link to work:** [freecodecamp React](https://learn.freecodecamp.org/front-end-libraries/react/)
