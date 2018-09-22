@@ -34,8 +34,26 @@
 ---- 
 ### Day 4: September 20th , 2018 
 
-**Today's Progress**:  
+**Today's Progress**: Finishing Freecodecamp REACT part. 
 
-**Thoughts:**  
+**Thoughts:** Kind of a repition, but still worth it. :) 
 
 **Link to work:** [freecodecamp React](https://learn.freecodecamp.org/front-end-libraries/react/)
+---- 
+### Day 5: September 21st , 2018 
+
+**Today's Progress**:  Redux Part at FreeCodeCamp and checking out firebase.
+
+**Thoughts:** Firebase has a nice real-time feature, not sure about pricing for big projects. Next project will include React+Redux+firebase
+
+**Link to work:** [freecodecamp Redux](https://learn.freecodecamp.org/front-end-libraries/redux)
+---- 
+### Day 6: September 22nd , 2018 
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** [freecodecamp Redux](https://learn.freecodecamp.org/front-end-libraries/redux)
+
+
