@@ -4,18 +4,24 @@
 
 **Today's Progress**: Started with freecodecamp.com again. 
 
-**Thoughts:** FreeCodeCamp really kept me motivated and since they've updated the entire database of courses with new material. I'd like to improve my frontend skills.
+**Thoughts:** FreeCodeCamp really kept me motivated and since they've updated the entire database of courses with new material. I'd like to improve my frontend skills.  
 
-**Link to work:** [freecodecamp SASS](https://learn.freecodecamp.org/front-end-libraries/sass)
----- 
+**Technology:** FreeCodeCamp SASS  
+
+**Link to work:** [freecodecamp SASS](https://learn.freecodecamp.org/front-end-libraries/sass)   
+  
+  
 ### Day 1: September 17th , 2018 
 
 **Today's Progress**: Checking out Authentication with Google Firebase. 
 
-**Thoughts:** Amazing service from Google and no struggles for storing user passwords. Will include this in the next sideproject.
+**Thoughts:** Amazing service from Google and no struggles for storing user passwords. Will include this in the next sideproject.  
+  
+**Technology:** Firebase -- Authentication, React   
 
 **Link to work:** [firebase](https://firebase.google.com/)
----- 
+  
+  
 ### Day 2: September 18th , 2018 
 
 **Today's Progress**: Freecodecamp again, REACT part. 
@@ -55,5 +61,23 @@
 **Thoughts:** 
 
 **Link to work:** [freecodecamp Redux](https://learn.freecodecamp.org/front-end-libraries/redux)
+---- 
+### Day 6: September 22nd , 2018 
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** [freecodecamp Redux](https://learn.freecodecamp.org/front-end-libraries/redux)
+
+---- 
+### Day 6: September 22nd , 2018 
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** [freecodecamp Redux](https://learn.freecodecamp.org/front-end-libraries/redux)
+https://github.com/iepur1lla/notes-firestore
 
 
