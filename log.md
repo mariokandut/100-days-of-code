@@ -97,3 +97,14 @@
 **Technology:** FreeCodeCamp -- Redux
 
 **Link to work:** [freecodecamp Redux](https://learn.freecodecamp.org/front-end-libraries/redux)  
+
+
+## Day 9: September 25th , 2018
+
+**Today's Progress**:  FreeCodeCamp - Redux, React-Redux  
+
+**Thoughts:** Finished Redux part of FreeCodeCamp. Starting Redux Todo App.
+
+**Technology:** React, Redux
+
+**Link to work:** [Redux TODos](https://github.com/iepur1lla/redux-todos)  
