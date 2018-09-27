@@ -108,3 +108,37 @@
 **Technology:** React, Redux
 
 **Link to work:** [Redux TODos](https://github.com/iepur1lla/redux-todos)  
+
+
+## Day 10: September 26th , 2018
+
+**Today's Progress**:  Research Redux - small counter example  
+
+**Thoughts:** Redux is a very powerfull concept, though not easy to grasp.
+
+**Technology:** React, Redux
+
+**Link to work:** [Redux TODos](https://github.com/iepur1lla/redux-todos)  
+
+
+## Day 11: September 27th , 2018
+
+**Today's Progress**:  Made a React Todolist to convert it to Redux.  
+
+**Thoughts:** Redux FTW, still much to learn.
+
+**Technology:** React, Redux
+
+**Link to work:** [Redux TODos](https://github.com/iepur1lla/redux-todos)  
+
+
+## Day 12: September 28th , 2018
+
+**Today's Progress**:    
+
+**Thoughts:** 
+
+**Technology:** React, Redux
+
+**Link to work:** [Redux TODos](https://github.com/iepur1lla/redux-todos)  
+
