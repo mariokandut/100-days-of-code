@@ -127,18 +127,17 @@
 
 **Thoughts:** Redux FTW, still much to learn.
 
-**Technology:** React, Redux
+**Technology:** React
 
 **Link to work:** [Redux TODos](https://github.com/iepur1lla/redux-todos)  
 
 
 ## Day 12: September 28th , 2018
 
-**Today's Progress**:    
+**Today's Progress**: Added more features to the toodlist, called it MinTodo.    
 
-**Thoughts:** 
+**Thoughts:** I wanted to host the data via firebase, but they dont't recommend arrays as a data structure and it makes sense. Got a new todo for this app.
 
-**Technology:** React, Redux
+**Technology:** React, Firebase
 
-**Link to work:** [Redux TODos](https://github.com/iepur1lla/redux-todos)  
-
+**Link to work:** [MinTodo](https://github.com/iepur1lla/mintodo)  
