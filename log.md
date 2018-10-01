@@ -141,3 +141,25 @@
 **Technology:** React, Firebase
 
 **Link to work:** [MinTodo](https://github.com/iepur1lla/mintodo)  
+
+
+## Day 13: September 28th , 2018
+
+**Today's Progress**: Restructured the data for mintodo.    
+
+**Thoughts:** It makes so much sense to use a complex object data structure than arrays for my this use case (More than 1 person editing the same data).
+
+**Technology:** React, Firebase
+
+**Link to work:** [MinTodo](https://github.com/iepur1lla/mintodo)  
+
+
+## Day 14: September 28th , 2018
+
+**Today's Progress**: Added github authentication and a SignUp/SignIn/Logout - logic for mintodo.    
+
+**Thoughts:** I am pretty proud of what I did so far, with a little bit time spend aside the day job.
+
+**Technology:** React, Firebase
+
+**Link to work:** [MinTodo](https://github.com/iepur1lla/mintodo)  
