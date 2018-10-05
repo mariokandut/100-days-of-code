@@ -163,3 +163,83 @@
 **Technology:** React, Firebase
 
 **Link to work:** [MinTodo](https://github.com/iepur1lla/mintodo)  
+
+
+## Day 15: September 29th , 2018
+
+**Today's Progress**: Research for authentication flows on firebase.    
+
+**Thoughts:** It makes a lot of sense to use an auth provider like firebase in a project.
+
+**Technology:** React, Firebase
+
+**Link to work:** [MinTodo](https://github.com/iepur1lla/mintodo)  
+
+
+## Day 16: September 30th , 2018
+
+**Today's Progress**: Found a nasty bug in todos filtering. Fixed it.    
+
+**Thoughts:** Call me bug hunter.
+
+**Technology:** React, Firebase
+
+**Link to work:** [MinTodo](https://github.com/iepur1lla/mintodo)  
+
+
+## Day 17: October 1st , 2018
+
+**Today's Progress**: Test of prebuild react auth compents with Firebase via npm.    
+
+**Thoughts:** YouTube is a very good source for tutorials.
+
+**Technology:** React, Firebase
+
+**Link to work:** [MinTodo](https://github.com/iepur1lla/mintodo)  
+
+
+## Day 18: October 2nd , 2018
+
+**Today's Progress**: Checking out the github API for another project.    
+
+**Thoughts:** Got drifted away from mintodo.
+
+**Technology:** React, Firebase
+
+**Link to work:** [MinTodo](https://github.com/iepur1lla/mintodo)  
+
+
+## Day 19: October 3rd , 2018
+
+**Today's Progress**: Back to mintodo authentification. Added FB.    
+
+**Thoughts:** The token handling is very interesting for other projects.
+
+**Technology:** React, Firebase
+
+**Link to work:** [MinTodo](https://github.com/iepur1lla/mintodo)  
+
+
+## Day 20: October 4th , 2018
+
+**Today's Progress**: Playing around with my userdata on facebook graph API.     
+
+**Thoughts:** Note to myself: --> GRAPHQL 
+
+**Technology:** React, Firebase
+
+**Link to work:** [MinTodo](https://github.com/iepur1lla/mintodo)  
+
+
+## Day 21: October 5th , 2018
+
+**Today's Progress**: Thoughts about MVP and Structure. Screendesign/Sketch. Restructured compents for size.      
+
+**Thoughts:** It's annoying that Adobe is not supporting XD on Linux.
+
+**Technology:** React, Firebase
+
+**Link to work:** [MinTodo](https://github.com/iepur1lla/mintodo)  
+
+
+
