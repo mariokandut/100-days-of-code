@@ -242,4 +242,15 @@
 **Link to work:** [MinTodo](https://github.com/iepur1lla/mintodo)  
 
 
+## Day 22: October 6th , 2018
+
+**Today's Progress**: Stepped away from mintodo, to continue with freecodecamp.      
+
+**Thoughts:** Got frustrated. Will continue tomorrow.
+
+**Technology:** React, Firebase
+
+**Link to work:** [MinTodo](https://github.com/iepur1lla/mintodo)  
+
+
 
