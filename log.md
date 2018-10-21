@@ -253,4 +253,25 @@
 **Link to work:** [MinTodo](https://github.com/iepur1lla/mintodo)  
 
 
+## Day 23: October 7th , 2018
+
+**Today's Progress**: Started mintodo again, stopped instagram postings and logging.      
+
+**Thoughts:** Got frustrated. Will continue tomorrow.
+
+**Technology:** React, Firebase
+
+**Link to work:** [MinTodo](https://github.com/iepur1lla/mintodo)  
+
+
+## Day 24: October 8th - October 21, 2018
+
+**Today's Progress**: Started mintodo again and finished it. The entire project can be seen here. [https://mintodo-733f4.firebaseapp.com/](https://mintodo-733f4.firebaseapp.com/)  
+
+**Thoughts:** I completely forgot to log my progress here, so therefore I am counting it as one day only and will extend the challenge by this time.
+
+**Technology:** React, Firebase
+
+**Link to work:** [MinTodo Github](https://github.com/iepur1lla/mintodo)  
+
 
