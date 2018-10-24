@@ -224,7 +224,7 @@
 
 **Today's Progress**: Playing around with my userdata on facebook graph API.     
 
-**Thoughts:** Note to myself: --> GRAPHQL 
+**Thoughts:** Note to myself: --> GRAPHQL
 
 **Technology:** React, Firebase
 
@@ -264,7 +264,7 @@
 **Link to work:** [MinTodo](https://github.com/iepur1lla/mintodo)  
 
 
-## Day 24: October 8th - October 21, 2018
+## Day 24: October 8th - October 21st, 2018
 
 **Today's Progress**: Started mintodo again and finished it. The entire project can be seen here. [https://mintodo-733f4.firebaseapp.com/](https://mintodo-733f4.firebaseapp.com/)  
 
@@ -275,3 +275,34 @@
 **Link to work:** [MinTodo Github](https://github.com/iepur1lla/mintodo)  
 
 
+## Day 25: October 22nd
+
+**Today's Progress**: Starting to plan the database structure of the new project, "projectFM".
+
+**Thoughts:** Research day - NoSQL basics.
+
+**Technology:** Firebase DB, NoSQL
+
+**Link to work:** [Project FM](https://github.com/iepur1lla/)  
+
+
+## Day 26: October 23rd
+
+**Today's Progress**: Comparing React and Redux for projectFM.
+
+**Thoughts:** For controlled components Redux is increasing the complexity unnecessary.
+
+**Technology:** React, Redux, Firebase DB, NoSQL
+
+**Link to work:** [Project FM](https://github.com/iepur1lla/)  
+
+
+## Day 27: October 24th
+
+**Today's Progress**:
+
+**Thoughts:**  
+
+**Technology:** React, Redux, Firebase DB, NoSQL
+
+**Link to work:** [Project FM](https://github.com/iepur1lla/)  
