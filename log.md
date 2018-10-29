@@ -264,7 +264,7 @@
 **Link to work:** [MinTodo](https://github.com/iepur1lla/mintodo)  
 
 
-## Day 24: October 8th - October 29st, 2018
+## Day 24: October 8th - October 28th, 2018
 
 **Today's Progress**: Started mintodo again and finished it. The entire project can be seen here. [https://mintodo-733f4.firebaseapp.com/](https://mintodo-733f4.firebaseapp.com/)  
 
@@ -275,7 +275,7 @@
 **Link to work:** [MinTodo Github](https://github.com/iepur1lla/mintodo)  
 
 
-## Day 25: October 30th
+## Day 25: October 29st
 
 **Today's Progress**: Finished FreeCodeCamp Regular Expression Part. Made 4 PRs to freecodecamp/guide for hacktoberfest.
 
