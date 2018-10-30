@@ -275,13 +275,23 @@
 **Link to work:** [MinTodo Github](https://github.com/iepur1lla/mintodo)  
 
 
-## Day 25: October 29st
-
-**Today's Progress**: Finished FreeCodeCamp Regular Expression Part. Made 4 PRs to freecodecamp/guide for hacktoberfest.
+## Day 25: October 29t
+**Today's Progress**: Finished FreeCodeCamp - Regular Expression. Made 5 PRs to freecodecamp/guide for hacktoberfest.
 
 **Thoughts:**  Regular expressions are really worth learning, though it takes time to read it.
 
 **Technology:** JavaScript, Regexp
+
+**Link to work:** [Github Profile](https://github.com/iepur1lla/)  
+
+
+## Day 26: October 30th
+
+**Today's Progress**: Added authentication to project fm and some basic routing.
+
+**Thoughts:**  Nested routes and nested private routes are really important for this project, so I need to dedicate time on creating the routing structure.  
+
+**Technology:** React, Firebase
 
 **Link to work:** [Github Profile](https://github.com/iepur1lla/)  
 
