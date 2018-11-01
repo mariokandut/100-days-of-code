@@ -275,7 +275,8 @@
 **Link to work:** [MinTodo Github](https://github.com/iepur1lla/mintodo)  
 
 
-## Day 25: October 29t
+## Day 25: October 29t, 2018  
+
 **Today's Progress**: Finished FreeCodeCamp - Regular Expression. Made 5 PRs to freecodecamp/guide for hacktoberfest.
 
 **Thoughts:**  Regular expressions are really worth learning, though it takes time to read it.
@@ -285,7 +286,7 @@
 **Link to work:** [Github Profile](https://github.com/iepur1lla/)  
 
 
-## Day 26: October 30th
+## Day 26: October 30th, 2018
 
 **Today's Progress**: Added authentication to project fm and some basic routing.
 
@@ -296,7 +297,7 @@
 **Link to work:** [Github Profile](https://github.com/iepur1lla/)  
 
 
-## Day 27: October 31st
+## Day 27: October 31st, 2018
 
 **Today's Progress**: Got hooked up with Decentralized Apps (DAPPS). Made a first etherum token.
 
@@ -307,7 +308,7 @@
 **Link to work:** [Github Profile](https://github.com/iepur1lla/)  
 
 
-## Day 28: November 1st
+## Day 28: November 1st, 2018
 
 **Today's Progress**: Desk research day - dapps, dapps, dapps.
 
