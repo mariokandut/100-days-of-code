@@ -295,3 +295,14 @@
 
 **Link to work:** [Github Profile](https://github.com/iepur1lla/)  
 
+
+## Day 26: October 30th
+
+**Today's Progress**: Got hooked up with Decentralized Apps (DAPPS). Made a first etherum token.
+
+**Thoughts:**  Possibilities are endless. I need to learn SOLIDITY.
+
+**Technology:** Solidity, Javascript, React, Truffle
+
+**Link to work:** [Github Profile](https://github.com/iepur1lla/)  
+
